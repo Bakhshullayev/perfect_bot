@@ -5,4 +5,5 @@ from . import reghex
 from . import contains
 from . import filters
 from . import idhandlers
+from . import anketa
 from . import echo
