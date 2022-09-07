@@ -1,5 +1,6 @@
 from . import start
 from . import help
+from . import keyboard
 from . import filterHandlers
 from . import reghex
 from . import contains
